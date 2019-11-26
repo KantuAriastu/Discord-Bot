@@ -10,7 +10,7 @@ regex = r"(\d+\s*)(centi|cm|mm|mili|km|kilo|meter|m)"
 length_find = re.compile(regex)
 
 load_dotenv()
-token = "NjM2NzMwOTIzODc3OTI0ODcw.XdoWXw.awYOC8TdB70R3H6aCZknIinEiKU"
+token = "NjM2NzMwOTIzODc3OTI0ODcw.XdxuXQ.NBONg2utTU1Uihp__lGOhRAuD_E"
 
 
 dad_joke = ("I Am", "I am" "I'm", "Am", "Aku","aku" ,"Im", "aing", "Aing", "gw")
@@ -44,7 +44,7 @@ class MyClient(discord.Client):
         
             
         
-
+load_convtable()
 client = MyClient()
 client.run(token)
 

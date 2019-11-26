@@ -1,0 +1,20 @@
+## length
+hands,0.1016
+furlongs,201.168
+parsecs,3.086e+16
+picoParsecs,30856.8
+cubits,0.4572
+football fields,91.44
+smoots,1.7018
+planck lengths,6.25e+34
+light years,9.461e+15
+astronomical units,1.496e+11
+japanese shakus,0.30303
+beard-seconds,200000000
+sheppey,1400
+potrzebie,0.0022263
+barleycorn,0.00846667
+poronkusema,7500
+rods,5.0292
+cubic hogshead edges,62.01
+attoparsec,0.0308568
